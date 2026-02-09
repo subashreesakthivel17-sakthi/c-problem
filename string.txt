@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+    int a;
+    int b;
+    printf("Age:",a);
+    scanf("%d",&a);
+    printf("count:",b);
+    scanf("%d",&b);
+    return 0;
+}
